@@ -1,0 +1,4 @@
+# config.py
+
+API_CID = "02788d41e50943aea545c3c93dc4ca14"
+API_SECRET = "af4d1b313e9c40be99efb416f5e379f4"
